@@ -13,4 +13,8 @@
 	  
 	  
   </properties>
+  <modules>
+  	<module>jdbc-practice</module>
+  	<module>jdbc</module>
+  </modules>
 </project>

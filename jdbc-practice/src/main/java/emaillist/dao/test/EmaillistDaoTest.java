@@ -11,7 +11,7 @@ public class EmaillistDaoTest {
 
 		
 		
-		//testInsert();
+		testInsert();
 		
 		testFindAll();
 		testDelete("kimmose98@naver.com");
